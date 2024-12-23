@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">Aspiring Software Engineer | BSIT Student <br> ✨ Love to learn new things and keep improving my skills. </h3>
 
+<img align="right" width="400" src="https://github.com/rudrabarad/Gifs"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markymouseee&label=Profile%20views&color=0e75b6&style=flat" alt="markymouseee" /> </p>
 
 <h3 align="left">Connect with me:</h3>
