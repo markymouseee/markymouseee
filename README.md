@@ -9,6 +9,7 @@
 ## 💫 About Me: 
 I am a BSIT student passionate about web and mobile development. I enjoy learning new technologies and improving my skills in fullstack development. My goal is to become a software engineer and contribute to meaningful projects.  
 
+✨ *Turning ideas into code, and code into reality* 
 ---
 
 ###
@@ -60,4 +61,6 @@ I am a BSIT student passionate about web and mobile development. I enjoy learnin
 <a href="mailto:sanamamarknoriel@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
 <a href="https://www.facebook.com/markymouseeee"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" /></a>
 </p>
+
+![Snake animation](https://github.com/markymouseee/markymouseee/blob/output/github-contribution-grid-snake.svg)
 
