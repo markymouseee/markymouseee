@@ -59,6 +59,15 @@ I am a BSIT student passionate about web and mobile development. I enjoy learnin
 <a href="https://www.facebook.com/markymouseeee" target="blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" /></a>
 </p>
 
+---
+
+## 🔥 Streak Stats: 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markymouseee&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/markymouseee/markymouseee/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/markymouseee/markymouseee/blob/output/github-contribution-grid-snake.svg">
