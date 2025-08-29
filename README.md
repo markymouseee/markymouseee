@@ -2,8 +2,6 @@
 
 <h3 align="center"> BSIT Student | Aspiring Software Engineer | Fullstack Web & Mobile Developer</h3>  
 
-
-
 ---
 
 ## 💫 About Me: 
