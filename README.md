@@ -20,6 +20,8 @@ I am a BSIT student passionate about web and mobile development. I enjoy learnin
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
    <img width="2" />
   <img src="https://camo.githubusercontent.com/a7fff07e5cafec1541292e8ded465ab230075fc069fe23317dbb317b3bbaf65d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7068702d2532333737374242342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465" height="30"/>
+  <img width="2" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="30" alt="jquery logo"  />
    <img width="2" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
     <img width="2" />
@@ -31,13 +33,19 @@ I am a BSIT student passionate about web and mobile development. I enjoy learnin
    <img width="2" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="30" alt="laravel logo"  />
   <img width="2" />
+  <img src="https://camo.githubusercontent.com/e9a836f9365e97788e7bf65da1191113e36b53e1083204680da198b83b4937ee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f766974652d2532333634364346462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697465266c6f676f436f6c6f723d7768697465" height="30" alt="vitejs logo" />
+  <img width="2" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
+  <img width="2" />
+  <img src="https://camo.githubusercontent.com/5ea4f439e5d984249c7782ed5f2ebba0a940baf951fe70cf12655ee421bc0d28/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6172696144422d3030333534353f7374796c653d666f722d7468652d6261646765266c6f676f3d6d617269616462266c6f676f436f6c6f723d7768697465" height="30" alt="mariadb logo"/>
   <img width="2" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="30" alt="firebase logo"  />
    <img width="2" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
   <img width="2" />
   <img src="https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white&style=for-the-badge" height="30" alt="composer logo"  />
+   <img width="2" />
+  <img src="https://camo.githubusercontent.com/e31233448c414211b0ccee1366e11e12b2bda7667c21eb2bc7f0aeae9fa24da2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f63686172742e6a732d4635373838442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63686172742e6a73266c6f676f436f6c6f723d7768697465" height="30" alt="chartjs logo"/>
   <img width="2" />
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="30" alt="npm logo"  />
     <img width="2" />
