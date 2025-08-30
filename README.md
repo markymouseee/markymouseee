@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Mark
 
 <h3 align="center"> BSIT Student | Aspiring Software Engineer | Fullstack Web & Mobile Developer</h3>  
@@ -5,14 +6,16 @@
 ---
 
 ## 💫 About Me: 
+<img align="right" height="125" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
+
 I am a BSIT student passionate about web and mobile development. I enjoy learning new technologies and improving my skills in fullstack development. My goal is to become a software engineer and contribute to meaningful projects.  
 
 ✨ *Turning ideas into code, and code into reality* 
 ---
 
+
 ## 💻 Tech Stack:
 <div align="center">
-<img align="right" height="150" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
   <img width="2" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
@@ -50,7 +53,6 @@ I am a BSIT student passionate about web and mobile development. I enjoy learnin
   <img src="https://camo.githubusercontent.com/3a94fbacfc6f555c9a73c35ccd25280558336b67f074f5fabceeea3eb0f54ad8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163745f6e61746976652d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" height="30"/>
 </div>
 
-
 ## 📊 GitHub Stats: 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=markymouseee&show_icons=true&theme=tokyonight" height="165" />
@@ -64,6 +66,7 @@ I am a BSIT student passionate about web and mobile development. I enjoy learnin
 <a href="mailto:sanamamarknoriel@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
 <a href="https://www.facebook.com/markymouseeee" target="blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" /></a>
 </p>
+
 
 ---
 
