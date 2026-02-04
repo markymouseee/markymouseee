@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Mark
 
-<h3 align="center"> BSIT Student | Aspiring Software Engineer | Fullstack Web & Mobile Developer</h3>  
+<h3 align="center"> IT Student | Software Developer | Passionate About CyberSecurity </h3>  
 
 ---
 
