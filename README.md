@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Mark
 
-<h3 align="center"> IT Student | Software Developer | Passionate About CyberSecurity </h3>  
+<h3 align="center"> IT Student | Full-Stack Developer </h3>  
 
 ---
 
