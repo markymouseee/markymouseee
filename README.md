@@ -1,4 +1,17 @@
-<h1 data-importer="text" align="left">👋 Hi, I'm Mark</h1>
+```
+                                                                                                                                                                                               
+                                                                       ▄▀                                                                                                                      
+                                                                      ██▄                                                            ▄▄▄██░░                                                   
+                      ▄▄▄▄▄       ▄▄▄▄▄▄█████▄   ███▄▄▄ ▐██▄▄█   ▄▄▄▄ ▀██▓▓▄                          ▄▄▄▄▄          ▄▄▄          ▄▄██████░░         ▄▄▄▄▄           ▄▄▄▄▄           ▄▄▄▄▄     
+ ▄▄▄        ▄▄▄    ▄▄███████▄▄    █████▀▀▀▀███▌  ██████ ▐████▌  ▓█████▌ ▀████▄   ▄▄▄        ▄▄▄    ▄▄███████▄▄    ▄▄▄███▌  ▄▄▄    ▀███▀▀          ▄▄███████▄▄     ▄▄███████▄▄     ▄▄███████▄▄  
+░████▄    ▄████░  ██████▀██████▄  ████▌ ▄▄███▀   ██████▄█████▌  ▓█████▌  █████▌ ░████▄    ▄████░  ██████▀██████▄ ▐██████▌ ▐████▄   ▀▀▀█▄▄▄       █████▀▀██████▄  █████▀▀██████▄  █████▀▀██████▄
+▓██████▄▄██████▓ ▐█████▀ ▀██████  ░▓▓█████▀▀    ▐▓▓▓▓▓█████▀▀    ▓████▄▄ █████▌ ▓██████▄▄██████▓ ▐█████   ██████ ▐█████▀  ▐█████▌   ▄ ▀▀▓▓▓▓▄   ▐█████▄  ▀▀▀▀▀▀ ▐█████▄  ▀▀▀▀▀▀ ▐█████▄  ▀▀▀▀▀▀
+░▓▓▓▓█▓▓▓▓█▓▓▓▓░ ▐▓▓▓▓▌   ▐▓▓▓▓▒▌ ░▒▒▓▓█▓▓▒▒▄   █░░▒▒▒▌  ▀██▓▓▓       ▀▀█▓▓▓▓▓▌ ░▓▓▓▓█▓▓▓▓█▓▓▓▓░ ▐▓▓▓▓▌   ▐▓▓▓▓▒ ▐▓▓▓▓▌   ▐▓▓▓▓▒▌  ▐██▌ ▀▒▒▒▒░  ▐▓▓▓▓██▓▀▀      ▐▓▓▓▓██▓▀▀      ▐▓▓▓▓██▓▀▀     
+█░▒▒▒▌▀██▀▐▒▒▒░█ ▒█▒▒▒▌░▒█▒▒▒▒█▓▌ ░░░░░ ▀█░░░█  ▐██░░░▌   ██▒▒▒  ▒░░░░  ▐▒▒▒░░▌ █░▒▒▒▌▀██▀▐▒▒▒░█  █▒▒▒▒▄▄▄▒▒▒▒█   █▒▒▒▒▄▄▄▒▒▒▒█▀  ▐▓▓▓▌  █░░░░▌  █▒▒▒▒█▄▄▄▒▒▒█   █▒▒▒▒█▄▄▄▒▒▒█   █▒▒▒▒█▄▄▄▒▒▒█ 
+▐█░░░█    █░░░█▌ ░▒▓█░    ▐░██▒░▌ ▓▓▓▓▓  ▐███   ▐█▓▓▓▀▀   ▓█░░░  ▒▒▒▒▒▄ ▐░░███  ▐█░░░█    █░░░█▌   ▀█░░░░░░░█▀     ▀█░░░░░░░█▀    ▐░░░░▄█░░░░▀    ▀█░░░░░░░█▀     ▀█░░░░░░░█▀     ▀█░░░░░░░█▀  
+ ██▀▀▀    ▀▀▀██   ░░░░    ▒▓▓▓▓▒▌ ░░░░░           ░░░     ▀▀▀▀▀   ▓▓▓▓▓████▀▀    ██▀▀▀    ▀▀▀██        ▀▀▀             ▀▀▀         ▀██████▀▀          ▀▀▀             ▀▀▀             ▀▀▀      
+                           ░░░░                                                                                                                                                                
+```
 
 ###
 
@@ -13,6 +26,23 @@
 <p data-importer="text" align="left">Full-Stack Software Developer experienced in building scalable web applications and backend systems.<br><br>I specialize in clean database design, structured API architectures, and modern UI development with Tailwind CSS. Driven by a passion for continuous learning, systems performance, and security principles, I focus on delivering reliable end-to-end solutions.</p>
 
 ###
+
+```php
+<?php
+
+namespace Developer\Mark;
+
+class Overview extends SoftwareEngineers
+{
+    public function getCorePrinciples(): array
+    {
+        return [
+            'Architecture' => 'Clean code, predictable database schemas, solid APIs.',
+            'Security'    => 'Defense-in-depth, input verification, security-first mindset.',
+        ];
+    }
+}
+```
 
 <br clear="both">
 
