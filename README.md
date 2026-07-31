@@ -6,7 +6,17 @@
 
 ###
 
+<h2 data-importer="text" align="left">About Me:</h2>
+
+###
+
 <p data-importer="text" align="left">Full-Stack Software Developer experienced in building scalable web applications and backend systems.<br><br>I specialize in clean database design, structured API architectures, and modern UI development with Tailwind CSS. Driven by a passion for continuous learning, systems performance, and security principles, I focus on delivering reliable end-to-end solutions.</p>
+
+###
+
+<br clear="both">
+
+<h2 data-importer="text" align="left">💻 Tech Stack:</h2>
 
 ###
 
@@ -56,6 +66,10 @@
 
 ###
 
+<h2 data-importer="text" align="left">🌐 Socials:</h2>
+
+###
+
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/mark-noriel-pregua-2530192aa/" target="blank"/>
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -72,3 +86,17 @@
 </div>
 
 ###
+
+## 🔥 Streak Stats: 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markymouseee&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/markymouseee/markymouseee/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/markymouseee/markymouseee/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/markymouseee/markymouseee/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
