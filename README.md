@@ -87,7 +87,14 @@
 
 ###
 
-## 🔥 Streak Stats: 
+## 📊 Stats: 
+<div data-importer="stats" align="center">
+  
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/markymouseee?cardType=level&theme=react&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=markymouseee&theme=dark)
+</div>
+
+## 🔥 Streak: 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=markymouseee&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
