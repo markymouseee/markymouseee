@@ -90,7 +90,7 @@
 ## 📊 Stats: 
 <div data-importer="stats" align="center">
   
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/markymouseee?cardType=level&theme=react&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/markymouseee?cardType=level&theme=github-dark&fontFamily=42dot%20Sans&preferLogin=false&Border=DD272700&borderRadius=20&Background=00000000)](https://git.io/awesome-stats-card)
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=markymouseee&theme=dark)
 </div>
 
