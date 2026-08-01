@@ -96,6 +96,8 @@ class Overview extends SoftwareEngineers
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="60" alt="npm logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
+    <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="50" alt="jquery logo"  />
 </div>
 
 ###
@@ -124,7 +126,7 @@ class Overview extends SoftwareEngineers
 ## 📊 Stats: 
 <div data-importer="stats" align="center">
   
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/markymouseee?cardType=level&theme=github-dark&fontFamily=42dot%20Sans&preferLogin=false&Border=DD272700&borderRadius=20&Background=00000000)]
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/markymouseee?cardType=level&theme=github-dark&fontFamily=42dot%20Sans&preferLogin=false&Border=DD272700&borderRadius=20&Background=00000000)
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=markymouseee&theme=dark)
 </div>
 
