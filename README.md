@@ -51,10 +51,10 @@ class Overview extends SoftwareEngineers
 ###
 
 <div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
   <img width="12" />
-    <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="50" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="50" alt="express logo"  />
     <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="60" alt="nodejs logo"  />
     <img width="12" />
